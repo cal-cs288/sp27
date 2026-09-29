@@ -55,12 +55,12 @@ title: Schedule
 03/11 Thu
 : Advanced topic: Scaling laws & data
 
-**03/16 Tue**{: .gray}
-: **No class: EECS faculty retreat (expected)**{: .gray} <br /> **Assignment 3 early milestone due**{: .label .label-yellow}
-
-03/18 Thu
+03/16 Tue
 : Advanced topic: Advanced architectures
-: **Assignment 3 due**{: .label .label-yellow}
+: **Assignment 3 early milestone due**{: .label .label-yellow}
+
+**03/18 Thu**{: .gray}
+: **No class: EECS faculty retreat (expected)**{: .gray} <br /> **Assignment 3 due**{: .label .label-yellow}
 
 **03/23 Tue**{: .gray}
 : **No class: Spring break**{: .gray}

@@ -1,3 +1,6 @@
+# CS 288: Advanced Natural Language Processing — Spring 2027
+
+Public course website: [https://cal-cs288.github.io/sp27/](https://cal-cs288.github.io/sp27/)
 
 ## Install
 ```

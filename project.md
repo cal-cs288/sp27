@@ -19,34 +19,29 @@ nav_order: 3
   <tbody>
     <tr>
       <td>0</td>
-      <td>Team registration / match request (for both A3 and project)</td>
-      <td>02/10</td>
+      <td>Team matching request (for both A3 and project)</td>
+      <td>02/02</td>
     </tr>
     <tr>
       <td>1</td>
       <td>Abstract</td>
-      <td>03/03</td>
+      <td>03/02</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Midpoint project report (2-3 pages)</td>
-      <td>04/09</td>
+      <td>Poster sessions</td>
+      <td>04/20 and 04/22</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Project presentation (duration TBD)</td>
-      <td>04/28 and 04/30</td>
-    </tr>
-    <tr>
-      <td>4</td>
       <td>Final project report (6-8 pages)</td>
-      <td>05/07</td>
+      <td>05/06</td>
     </tr>
   </tbody>
 </table>
 
 ## Overview
-Please see **[https://docs.google.com/document/d/1C8Dl6DX0_F5g3HDR-Gwr1fTmKGgscxzbU9AiUpvxV0k/edit?usp=sharing](https://docs.google.com/document/d/1C8Dl6DX0_F5g3HDR-Gwr1fTmKGgscxzbU9AiUpvxV0k/edit?usp=sharing) for logistics and reference topics.
+TBA
 
 ## Project FAQ
 

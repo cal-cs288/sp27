@@ -10,16 +10,16 @@ This course provides a graduate-level introduction to Natural Language Processin
 
 ### Grading
 
-- Quizzes/Participation: 5%
-- Assignments
-	- Assignment 1: 15%
-	- Assignment 2: 20%
-	- Assignment 3: 20%
-- Final Project: 40% 
+- Participation: 5%
+- Assignments: 35%
+	- Assignment 1: 7.5%
+	- Assignment 2: 12.5%
+	- Assignment 3: 15%
+- Midterm: 30%
+- Final Project: 30%
 	- Checkpoint 1 (Abstract): 5%
-	- Checkpoint 2 (Midpoint report): 5%
-	- Checkpoint 3 (Presentation): 10%
-	- Checkpoint 4 (Final report): 20%
+	- Checkpoint 2 (Poster sessions): 10%
+	- Checkpoint 3 (Final report): 15%
 
 
 All team members will receive the same score for team assignments and projects.
@@ -31,7 +31,7 @@ You have **a total of 6 late days** to use during the semester for the assignmen
 
 **You may not use more than 3 late days per assignment.** Gradescope will be closed after 72 hours (if it happens to remain open after that, you can still submit). Once Gradescope closes, any missing submission will receive zero. Only the latest submission will be graded if you submit multiple times.
 
-*Late days can be used for A1, A2, A3, Project checkpoints 1 and 2. Project checkpoints 0 (team registration), 3 (presentation), and 4 (final report) are **not eligible** for late days.*
+*Late days can be used for A1, A2, A3, and Project checkpoint 1 (abstract). Project checkpoint 0 (team matching request), Project checkpoint 2 (poster sessions), Project checkpoint 3 (final report), and the midterm are **not eligible** for late days.*
 
 We do not keep track of partial late days. One late day is spent per 24 hour window after the deadline, including if a submission occurs within (including at the very beginning of) a window. 
 
@@ -45,7 +45,7 @@ CS 288 assumes prior experience in machine learning and proficiency in PyTorch. 
 ### In person attendance
 Lectures will be live and in-person. All lectures will be recorded and made available to enrolled students and Cal-affiliated auditors.  However, we do not provide guarantees on how quickly these recordings & lecture slides will be made available online. Recordings are intended primarily for later reference only and not as a replacement for attending lecture. Thus, we strongly encourage in-person attendance, although we will not take attendance.
 
-In-person attendance is required for the project presentations in Class 27 and 28, except where otherwise arranged via DSP.
+In-person attendance is required for the poster sessions on April 20 and 22, except where otherwise arranged via DSP.
 
 ### Disability Support Services
 
@@ -83,6 +83,4 @@ Please feel free to bring and use your laptops / other electronics to class if i
 
 ### What is the formula for curving the courses?
 Curving will be based on an affine transformation of scores up to the discretion of the instructors.
-
-
 

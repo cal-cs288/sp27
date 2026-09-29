@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CS 288
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Sewon Min, Alane Suhr
-baseurl: '/sp26' # the subpath of your site, e.g. /blog
+tagline: Advanced Natural Language Processing, Spring 2027
+description: Public website for UC Berkeley CS 288 in Spring 2027
+author: Sewon Min
+baseurl: '/sp27' # the subpath of your site, e.g. /blog
 url: 'https://cal-cs288.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -70,5 +70,3 @@ defaults:
       type: announcements
     values:
       layout: announcement
-
-      

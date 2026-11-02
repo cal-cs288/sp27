@@ -70,7 +70,7 @@ Please use Ed whenever possible; private posts are welcome. If you cannot post o
 \[Ed link: TBA\] \[Gradescope link: TBA\] \[Lecture recordings: TBA\] \[Final project logistics and reference topics: TBA\]
 
 <div id="enrollmentNote" class="alert alert-warning">
-  <b>Enrollment for students who cannot enroll directly:</b> <b>Please submit the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpeEROA-xMt6LWIPoqBDXWPRmWWsiHE0E1muQWVHXscXaQew/viewform">Spring 2027 enrollment form</a> by January 19 to be considered for enrollment.</b> Enrollment depends on seat availability and is not guaranteed. Applicants should generally have A or A+ grades in at least three of CS 188, CS 189, CS 126, CS 127, CS 182, and CS 183, or have Berkeley research or project experience. All information needed is included in the form. Enrollment will be finalized no later than January 29; before then, please do not email to request an early decision.
+  <b>Enrollment for students who cannot enroll directly:</b> <b>Please submit the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpeEROA-xMt6LWIPoqBDXWPRmWWsiHE0E1muQWVHXscXaQew/viewform">Spring 2027 enrollment form</a> by January 19 to be considered for enrollment.</b> Enrollment depends on seat availability and is not guaranteed. Applicants should generally have A or A+ grades in at least two of CS 188, CS 189, CS 126, CS 127, CS 182, and CS 183, or have Berkeley research or project experience. All information needed is included in the form. Enrollment will be finalized no later than January 29; before then, please do not email to request an early decision.
 </div>
 
 

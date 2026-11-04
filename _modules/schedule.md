@@ -17,14 +17,14 @@ title: Schedule
 
 02/02 Tue
 : Sequence-to-sequence models
-: **Assignment 1 due**{: .label .label-yellow} **Team matching request due**{: .label .label-yellow}
+: **Assignment 1 due**{: .label .label-yellow}
 
 02/04 Thu
 : Sequence-to-sequence models (cont'd)
 
 02/09 Tue
 : Transformers
-: **Assignment 2 released**{: .label .label-yellow}
+: **Assignment 2 released**{: .label .label-yellow} **Team matching request due**{: .label .label-yellow}
 
 02/11 Thu
 : Transformers (cont'd)

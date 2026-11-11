@@ -1,0 +1,99 @@
+.main-content .module,
+.module {
+  @extend %card;
+
+  font-size: 90%;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    &:first-child {
+      margin-top: $sp-4;
+    }
+  }
+
+  >dl {
+    border-bottom: $border $border-color;
+    border-top: $border $border-color;
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    margin: $sp-2 (-$sp-4);
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    @include mq(lg) {
+      grid-template-columns: 1.5fr 7.5fr;
+    }
+
+    %module-item {
+      margin: 0;
+      padding: $sp-2;
+
+      @include mq(sm) {
+        padding: $sp-2 $sp-4;
+      }
+    }
+
+    >dt {
+      @extend %module-item;
+      border-top: $border $border-color;
+      font-weight: normal;
+      text-align: right;
+
+      +dd {
+        border-top: $border $border-color;
+      }
+
+      &:first-child {
+        border-top: none;
+
+        +dd {
+          border-top: none;
+        }
+
+        +dd + dd{
+          border-top: none;
+        }
+      }
+    }
+
+    >dd {
+      @extend %module-item;
+
+      +dd {
+        padding-top: 0;
+      }
+
+      ol, ul, dl {
+        margin: 0;
+      }
+
+      dl {
+        display: flex;
+        flex-wrap: wrap;
+
+        dt, dd {
+          margin: 0;
+          border-top: $border $border-color;
+        }
+
+        // three equal columns
+        @include mq(sm) {
+          dt, dd {
+            flex: 0 0 33.3333%;
+          }
+        }
+      }
+
+    }
+  }
+}

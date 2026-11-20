@@ -50,13 +50,13 @@ title: Schedule
 : Retrieval and RAG
 
 03/09 Tue
-: Guest lecture (TBA)
-
-03/11 Thu
 : Advanced topic: Scaling laws & data
 
-03/16 Tue
+03/11 Thu
 : Advanced topic: Advanced architectures
+
+03/16 Tue
+: Guest lecture: [William Held](https://williamheld.com/), Member of Technical Staff at Open Athena (Marin Project)
 : **Assignment 3 early milestone due**{: .label .label-yellow}
 
 **03/18 Thu**{: .gray}
@@ -72,13 +72,13 @@ title: Schedule
 : Advanced topic: Test-time compute & Reasoning models
 
 04/01 Thu
-: Advanced topic: Agents
+: **MIDTERM** (Scope: lectures through 03/11 and Assignments 1–3)
 
 04/06 Tue
-: **MIDTERM** (Scope: all material covered through the March 18 class)
+: MIDTERM REVIEW (will not be recorded)
 
 04/08 Thu
-: MIDTERM REVIEW (will not be recorded)
+: Advanced topic: Agents
 
 04/13 Tue
 : Advanced topic: Vision-language models

@@ -20,7 +20,7 @@ Spring 2027
 <div id="contactGuidance" class="contact-guidance-panel" hidden markdown="1">
 <button type="button" class="contact-guidance-close" aria-label="Close contact guidance" onclick="document.getElementById('contactGuidance').hidden=true; document.querySelector('.contact-guidance-toggle').setAttribute('aria-expanded', 'false');">&times; Close</button>
 
-To help us respond quickly and make sure your question reaches the right people, please use the routes below. None of these situations requires emailing instructor Sewon Min at her Berkeley address. Course related emails sent directly to her will be automatically filtered and deleted, so please follow the guidance below.
+To help us respond quickly and make sure your question reaches the right people, please use the routes below.
 
 <details class="contact-guidance-item" markdown="1">
 <summary>I have questions about enrollment.</summary>

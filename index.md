@@ -13,7 +13,7 @@ Spring 2027
 **Instructor**: 		[Sewon Min](https://www.sewonmin.com/)<br />
 **Class hours**: 		TuThu 11:00-12:30 (11:10-12:30 considering Berkeley time) <br />
 **Class location**: 	Gateway 1220 <br />
-**Instructor OH**: 		Tuesday, 12:30–1:30 PM, immediately after lecture. Brief questions just outside the lecture hall; if a queue forms, office hours will continue in **1110B**.<br />
+**Instructor OH**: 		Tuesday, 12:30–1:30, outside the lecture hall for brief questions; for longer questions, Gateway 1110B<br />
 **GSI OH**: TBA<br />
 **Contact**: <a href="#" class="contact-guidance-toggle" aria-controls="contactGuidance" aria-expanded="false" onclick="var panel=document.getElementById('contactGuidance'); panel.hidden=!panel.hidden; this.setAttribute('aria-expanded', String(!panel.hidden)); return false;">Please read before emailing</a><br />
 

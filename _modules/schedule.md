@@ -57,7 +57,6 @@ title: Schedule
 
 03/16 Tue
 : Guest lecture: [William Held](https://williamheld.com/), Member of Technical Staff at Open Athena (Marin Project)
-: **Assignment 3 early milestone due**{: .label .label-yellow}
 
 **03/18 Thu**{: .gray}
 : **No class: EECS faculty retreat (expected)**{: .gray} <br /> **Assignment 3 due**{: .label .label-yellow}

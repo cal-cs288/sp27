@@ -10,16 +10,16 @@ This course provides a graduate-level introduction to Natural Language Processin
 
 ### Grading
 
-- Participation: 5%
-- Assignments: 35%
-	- Assignment 1: 7.5%
-	- Assignment 2: 12.5%
-	- Assignment 3: 15%
-- Midterm: 30%
-- Final Project: 30%
-	- Checkpoint 1 (Abstract): 5%
-	- Checkpoint 2 (Poster sessions): 10%
-	- Checkpoint 3 (Final report): 15%
+- Participation/extra points: 5%
+- Assignments: 33%
+  - A1: 7%
+  - A2: 11%
+  - A3: 15%
+- Midterm: 35%
+- Final Project: 27%
+  - Abstract: 2%
+  - Poster: 10%
+  - Final report: 15%
 
 
 All team members will receive the same score for team assignments and projects.
